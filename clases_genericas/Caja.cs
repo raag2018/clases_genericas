@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace clases_genericas{
-    public class Caja<T> where T : new(){
+    public class Caja<T>{
         private T contenido;
         public Caja(T contenidoInicial){
             contenido = contenidoInicial;
