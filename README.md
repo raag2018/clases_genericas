@@ -1,1 +1,3 @@
-# clases_genericas
+### Clases Genericas
+
+-En el lenguaje de programación C#, las clases genéricas representan una poderosa característica que permite definir estructuras de datos y comportamientos que pueden trabajar con cualquier tipo de dato, proporcionando así una manera más reutilizable y segura de escribir código. A diferencia de las clases tradicionales, las clases genéricas utilizan parámetros de tipo que se especifican entre corchetes angulares (< y >), lo que permite la creación de métodos y propiedades que funcionan con diferentes tipos de datos sin necesidad de duplicar código para cada tipo específico.
